@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Hasindu-Himasara"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hey I'am+Hasindu+Himasara"></a></h1>
+<h1 align="center"><a href="https://github.com/Hasindu-Himasara"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hi+I'am+Hasindu+Himasara"></a></h1>
 
 - 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
 - 🔭 I’m currently working on : Hasindu Tech Corporation ©️ <br>
