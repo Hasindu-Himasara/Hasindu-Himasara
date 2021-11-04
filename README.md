@@ -1,25 +1,20 @@
 # Hey, I am Hasindu Himasara <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
-
-<!--
-**Hasindu-Himasara/Hasindu-Himasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
-- 🔭 I’m currently working on : Senith.Org <br>
-- 📚 I went to : Richmond College, Galle <br>
+- 🔭 I’m currently working on : Hasindu Tech Corporation ©️ <br>
+- 📚 I went to : Vidyaloka College Galle <br>
 - 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black) <br>
 - 🤔 I’m looking for help : For Me <br>
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
-
 ### My Github Status
 
-![Hasindu-Himasara's GitHub Status](https://github-readme-stats.vercel.app/api?username=Hasindu-Himasara&theme=dark&show_icons=true)
+![Hasindu Himasara's GitHub Status](https://github-readme-stats.vercel.app/api?username=Hasindu-Himasara&theme=dark&show_icons=true)
 
 - ![Profile views](https://gpvc.arturio.dev/Hasindu-Himasara)
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasindu-Himasara&theme=alduin" alt="Hasindu-Himasara" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasindu-Himasara&theme=alduin" alt="Senith-Chandul" /></a> </p>
 
 ### Languages and Tools:
 
