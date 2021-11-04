@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Github Status
+
+![Hasindu-Himasara's GitHub Status](https://github-readme-stats.vercel.app/api?username=Hasindu-Himasara&theme=dark&show_icons=true)
+
+- ![Profile views](https://gpvc.arturio.dev/Hasindu-Himasara)
+
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasindu-Himasara&theme=alduin" alt="Hasindu-Himasara" /></a> </p>
