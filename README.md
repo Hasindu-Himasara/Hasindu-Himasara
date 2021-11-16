@@ -11,11 +11,11 @@ You can use the website to generate badges: https://shields.io/
 You can use the website to generate badges: https://shields.io/
 -->
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Programming Boy Corporation ©️  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+-  🚶‍ I live in : Sri Lanka 🇱🇰  <br>
+- 🔭 I’m currently working on : Programming Boy Corporation ©️  <br>
+- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+- 🤔 I’m looking for help : For  Me  <br>
+- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
 
@@ -53,11 +53,10 @@ You can use the website to generate badges: https://shields.io/
 
                                                           
 ### Tech Wide:
-<a href="https://t.me/TECH_WIDE_GROUP"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-<p align="left">
+<a href="https://t.me/TECH_WIDE_GROUP">
 
                                                               
-### Contac Me On Telegram
+### Contact Me On Telegram
                                                               
 <a href="https://t.me/HASINDU_HIMASARA" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
