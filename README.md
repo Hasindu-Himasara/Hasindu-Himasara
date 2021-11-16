@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Hasindu HImasara](https://t.me/HASINDU_HIMASARA)**                                                                                |
 | <a href="https://t.me/HASINDU_HIMASARA"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a>                                                                                                                                                                </a>                                          
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://wallpaper.dog/large/17022999.jpg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
