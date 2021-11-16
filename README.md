@@ -52,9 +52,6 @@ You can use the website to generate badges: https://shields.io/
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasindu-Himasara&theme=dark&show_icons=true)
 
                                                           
-### Tech Wide:
-<a href="https://t.me/TECH_WIDE_GROUP">
-
                                                               
 ### Contact Me On Telegram
                                                               
