@@ -1,11 +1,11 @@
-# Hey There! I am Hasindu Himasara<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There! I'am Hasindu Himasara<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://t.me/HASINDU_HIMASARA"><img src="https://telegra.ph/file/0f9ad7b6a6cabc9a4bbdc.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Hasindu HImasara](https://t.me/HASINDU_HIMASARA)**                                                                                |
-| <a href="https://t.me/HASINDU_HIMASARA"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a                                                                                                                                                               </a>                                          
+| <a href="https://t.me/HASINDU_HIMASARA"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a>                                                                                                                                                                </a>                                          
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
