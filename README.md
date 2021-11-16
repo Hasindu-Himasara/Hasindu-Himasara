@@ -11,12 +11,13 @@ You can use the website to generate badges: https://shields.io/
 You can use the website to generate badges: https://shields.io/
 -->
 
--  🚶‍ I live in : Sri Lanka 🇱🇰  <br>
-- 🔭 I’m currently working on : Programming Boy Corporation ©️  <br>
-- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
-- 🤔 I’m looking for help : For  Me  <br>
+- 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
+- 🔭 I’m currently working on : Programming Boy Corporation ©️ <br>
+- 📚 I went to : Vidyaloka College Galle <br>
+- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black) <br>
+- 🤔 I’m looking for help : For Me <br>
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-
 
 
 - ![Profile views](https://gpvc.arturio.dev/Hasindu-Himasara)
