@@ -1,8 +1,8 @@
-# Hey There! I am Damantha Jasinghe<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There! I am Hasindu Himasara<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/d80d2a9b4335b148a378c.jpg" width="150px" height="150px" /></a> |
+| <a href="https://t.me/HASINDU_HIMASARA"><img src="https://telegra.ph/file/ed858ab9d55a228d51d05.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Hasindu HImasara](https://t.me/HASINDU_HIMASARA)**                                                                                |
 | <a href="https://t.me/HASINDU_HIMASARA"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/HASINDU_HIMASARA"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                </a>                                          
@@ -23,14 +23,14 @@ You can use the website to generate badges: https://shields.io/
 
 **** 
  <a href="https://github.com/Hasindu-Himasara/handle-path-oz">
-    <img align="center" alt="Damantha Jasinghe's github stats" src="https://github-readme-stats.vercel.app/api?username=Damantha126&show_icons=true&theme=midnight-purple" />
+    <img align="center" alt="Hasindu Himasara's github stats" src="https://github-readme-stats.vercel.app/api?username=Hasindu-Himasara&show_icons=true&theme=midnight-purple" />
   </a>
 
 <br>
 <br>
 
 - ![Profile views](https://gpvc.arturio.dev/Hasindu-Himasara)
-- [![GitHub followers](https://img.shields.io/github/followers/Damantha126.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Damantha126?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/Hasindu-Himasara.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hasindu-Himasara?tab=followers)
   
 
 <p align="center"> <a href="https://github.com/Hasindu-Himasara"><img src="https://github-profile-trophy.vercel.app/?username=Hasindu-Himasara&no-bg=true" alt="Hasindu-Himasara" /></a> </p>
@@ -60,16 +60,13 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Damantha126&theme=dark&show_icons=true)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasindu-Himasara&theme=dark&show_icons=true)
 
-# CONTACT ME ON
                                                           
-### Bots Channel:
-<a href="https://t.me/ankivectorUpdates"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+### Tech Wide:
+<a href="https://t.me/TECH_WIDE_GROUP"><img src="https://img.shields.io/badge/Anki Vector%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
 
-### Bots Support Group:
-<a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Anki vecor%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
                                                               
 ### Contac Me On Telegram
                                                               
